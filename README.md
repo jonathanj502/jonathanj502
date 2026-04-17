@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Jonathan, a CS undergrad at Columbia University based in NYC .</p>
+<p align="left">I'm Jonathan, a CS undergrad at Columbia University based in NYC.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Always looking to work on cool new things.<br>Contact me through my email :)<br></p>
+<p align="left">I am passionate about backend systems and security but always looking to work on cool new things.<br>Contact me through my email :)<br></p>
 
 ###
 
